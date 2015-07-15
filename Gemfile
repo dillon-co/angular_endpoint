@@ -4,6 +4,7 @@ gem 'rails', '4.2.1'
 gem 'sass-rails', '~> 5.0'
 gem 'jquery-rails'
 gem 'puma'
+gem 'active_model_serializers'
 source 'https://rails-assets.org' do
   gem 'rails-assets-angular'
 end
