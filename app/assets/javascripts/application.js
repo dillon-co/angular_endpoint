@@ -12,9 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
-//= require foundation
-//= require_tree .
-$(function() {
-  $(document).foundation();
-});
+//= require angular
+//= require five_card.js
+//= require blackjack.js
+//= require index.js
